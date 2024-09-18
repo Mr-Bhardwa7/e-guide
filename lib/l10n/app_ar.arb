@@ -12,5 +12,8 @@
   "selectLanguage": "اختر لغة",
   "english": "إنجليزي",
   "arabic": "عربي",
-  "cancel": "يلغي"
+  "cancel": "يلغي",
+  "home": "بيت",
+  "courses": "الدورات",
+  "profile": "حساب تعريفي"
 }

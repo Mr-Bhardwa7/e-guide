@@ -12,5 +12,8 @@
   "selectLanguage": "Select a language",
   "english": "English",
   "arabic": "Arabic",
-  "cancel": "Cancel"
+  "cancel": "Cancel",
+  "home": "Home",
+  "courses": "Courses",
+  "profile": "Profile"
 }
